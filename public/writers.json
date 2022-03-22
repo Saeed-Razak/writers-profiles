@@ -9,41 +9,41 @@
     },
     {
         "id": 2,
-        "name":"Audre Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde@gmail.com",
+        "name":"Du bois",
+        "avatar":"Du_bois",
+        "email":"dubois@gmail.com",
         "phone": "1-773-454-3645",
         "bio": "she is a bloger for the year ended 2022"
     },
     {
         "id": 3,
-        "name":"Audre Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde@gmail.com",
+        "name":"belle hooks",
+        "avatar":"belle_hooks",
+        "email":"bellehooks@gmail.com",
         "phone": "1-773-454-3645",
         "bio": "she is a bloger for the year ended 2022"
     },
     {
         "id": 4,
-        "name":"Audre Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde@gmail.com",
+        "name":"james baldwin",
+        "avatar":"james_baldwin",
+        "email":"james@gmail.com",
         "phone": "1-773-454-3645",
         "bio": "she is a bloger for the year ended 2022"
     },
     {
         "id": 5,
-        "name":"Audre Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde@gmail.com",
+        "name":"lanston hughes",
+        "avatar":"lanston_hughes",
+        "email":"lanston@gmail.com",
         "phone": "1-773-454-3645",
         "bio": "she is a bloger for the year ended 2022"
     },
     {
         "id": 6,
-        "name":"Audre Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde@gmail.com",
+        "name":"maya angelou",
+        "avatar":"maya_angelou",
+        "email":"mayaangelou@gmail.com",
         "phone": "1-773-454-3645",
         "bio": "she is a bloger for the year ended 2022"
     }
